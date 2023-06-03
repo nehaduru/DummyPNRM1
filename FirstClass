@@ -1,0 +1,5 @@
+Public class Testclass{
+  Public static method(){
+  //This is dummy class
+  }
+}
